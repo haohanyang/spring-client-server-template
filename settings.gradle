@@ -1,0 +1,2 @@
+rootProject.name = 'spring-client-server-template'
+include 'common','server','client'
